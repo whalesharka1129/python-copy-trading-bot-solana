@@ -2,6 +2,7 @@ import requests
 import time
 import json
 import websocket
+import logging
 
 cielo_url = "https://feed-api.cielo.finance/api/v1/tracked-wallets"  # URL for Cielo API
 headers = {
@@ -11,6 +12,13 @@ headers = {
 }
 
 target_wallets = ["4v8eyWVXP3XehixjQUjbar6MDdN9PKaZGwA7eXAfXhDL", "yByHYAV3z7Ghwu8NfrHXRJUqs6E9cT2rZV419oFVpw1", "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA"]
+
+
+
+def processTransaction(message, filename= 'logfile.log'):
+    
+    logging.basicConfig(filename=filename, level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.info(message)
 
 # Function to add tracked wallets to SHYFT API
 def add_tracked_wallets(wallet, label):
@@ -117,6 +125,7 @@ def on_message(ws, message):
     if parsed_message['type']=="tx" and parsed_message['data']['token0_address'] !=parsed_message['data']['token1_address']:
        print(parsed_message['data'])
        send_message_to_telegram(parsed_message['data'])  # Call function to send message if it's a swap transaction
+       processTransaction(message)
 
 def on_error(ws, error):
     print("WebSocket error:", error)  # Log any errors that occur with the WebSocket
