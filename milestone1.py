@@ -41,7 +41,7 @@ def get_tracked_wallets():
 
 def send_message_to_telegram(message):
   bot_token = '7371994922:AAE-bsc4XZxQpH9_OU0lMeeoa-OluGNNjZU' # Telegram bot(Bitcoin Lottery) token (replace with your own)
-  chat_id = '@whale_monitoring_ch'  # Use the channel name with "@" prefix
+  chat_id = '7128454192'  # Use the channel name with "@" prefix
 #   chat_id1 = '@+186S3MLPRUNmNGUx'
   # Set the content of bot's message
 #   print(message)
@@ -58,7 +58,7 @@ def send_message_to_telegram(message):
       token1_amount = round(message['token1_amount'], 2), token1_symbol = message['token1_symbol'],
       token1_usd = round(float(message['token1_price_usd']), 2), 
       )
-
+  
   # URL for sending messages
   url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
 
@@ -69,7 +69,7 @@ def send_message_to_telegram(message):
       'parse_mode': 'HTML',
       'disable_web_page_preview': True  # Disable link previews
   }
-  response = requests.get(url, params=params)
+  response = requests.post(url, params=params)
   
   message_content_json = {
       "label": message['from_label'],
