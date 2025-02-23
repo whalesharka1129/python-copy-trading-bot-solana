@@ -555,3 +555,337 @@
 --------------------------------------------
 {"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "qV6MAKMkb1eCdnaAFaZQZS5NsL8yncnGFqn6D4M3W39DcnoNsjgsnFmciwpLGXBT4gxbuv7uxwEcYriZpzaJPXC", "token0": {"amount": 0.0, "symbol": "SOL", "usd_value": 0.81}, "token1": {"amount": 2190.26, "symbol": "HIBER", "usd_value": 0.0}}
 --------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4VNtw37yCv2mL7F9TqvJVJERf9SFZKJY7ghuPDHQxhTUr6wBJANbULGBKtzXXw83RJd1gwNxdW9e1zurUkPLY4of", "token0": {"amount": 1.33, "symbol": "SOL", "usd_value": 230.33}, "token1": {"amount": 111478.04, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3mUeBAu7jsCCGJcburpc1abiZ7bnNh9NobrwMZJGe7pziVKqhasZQP9P7Bmo1Nt3ST8ryEbQoM83WLEEng1yWgZA", "token0": {"amount": 2.86, "symbol": "SOL", "usd_value": 497.03}, "token1": {"amount": 529476.31, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4BZYW7Tec9SgieLCgogzHcbPXhq6G28i9Uw9A645eR8C7g4psF5RgMGddHkGqUVwroaTDjkcFEAvpwWKgVzKeEmn", "token0": {"amount": 529476.31, "symbol": "GROK3", "usd_value": 528.2}, "token1": {"amount": 3.04, "symbol": "SOL", "usd_value": 173.54}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4wDQxNoPBQH19f8vzD4kQkui62u6avhQBJep6NzkiMMaSLBcwxLbq3yVb2oXc5UrAL9voTBb5NQZpfd12RB2KcLv", "token0": {"amount": 182436.73, "symbol": "Lethe", "usd_value": 409.76}, "token1": {"amount": 2.36, "symbol": "SOL", "usd_value": 173.59}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3vfKUQZTCVgjqtzg6kADNhx34Dy47axy6Ws46fBAv3KY7RSxg1vDmip8CCn4PHd77HGPV1K2toiHD5dNbDA9yx2n", "token0": {"amount": 1.38, "symbol": "SOL", "usd_value": 239.25}, "token1": {"amount": 111767.34, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "kZ1nyQgFu23fAvHJPLTHRsS6S76d49uiPv715xvBQPjXtM5y4taPXwdrVhAcv7xYhyyVDSaZyrbpzju3taYLaPa", "token0": {"amount": 28090.41, "symbol": "STONKS", "usd_value": 840.3}, "token1": {"amount": 4.85, "symbol": "SOL", "usd_value": 173.37}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3ZAyMUjuex8tTe9NcTgpQBpCWUXMyijgPrssKQj5u78RixxqFCZWgW4JPZmWuJpwHzsvMNMNzxmPVw3Ziv7rqjEW", "token0": {"amount": 8.36, "symbol": "SOL", "usd_value": 1451.16}, "token1": {"amount": 861013.49, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4YbdbwtrertnzxP13tGb6SyMfrqbZLXmK8pPL8BZbj76Hpr5gBZ1FHukdaDXhaKF8wPTkB1aoiQAKcQMDkkmvJ5K", "token0": {"amount": 2.19, "symbol": "SOL", "usd_value": 379.54}, "token1": {"amount": 373253.51, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5Wmt8XpQaFMbWoBHSfi3r44AR76222mRXFcZfZvoiv9emxQus84DSutnXRhD9xFiV5CiR4r9NLwgeeiMLJaPj8b5", "token0": {"amount": 458484.9, "symbol": "YzY", "usd_value": 844.1}, "token1": {"amount": 4.86, "symbol": "SOL", "usd_value": 173.54}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4cwVsJ3fB1qxkHSw7fWnYgjBYUC4JAEYYSXxJBSAMTRp8QkxsS6FHjLYEF9qT2G5GCTE3rpMByoMC61RmQxswRzG", "token0": {"amount": 2.85, "symbol": "SOL", "usd_value": 494.52}, "token1": {"amount": 289806.79, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5DpUgVATGPgamHawEpDy2PSJCM1AnmNFMYV4n5HdZegjpxJnyqmKW6SYDgpMsM7jCmtQLa5vdnpX1M6PcJRLreYt", "token0": {"amount": 268175.45, "symbol": "YzY", "usd_value": 539.15}, "token1": {"amount": 3.11, "symbol": "SOL", "usd_value": 173.48}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4fbGhLdDVEd7dcaC8ww8K8fCwJMsZKnbvSk5Ly3hD6iXhWRffh16DqEV3PrHNXKVTAmBeD51WCVBhZMVovpxan5", "token0": {"amount": 9015.95, "symbol": "FARTBOY", "usd_value": 879.42}, "token1": {"amount": 5.07, "symbol": "SOL", "usd_value": 173.48}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5Mf4Vwe8YuhnoAA5zbSfA6TxAsLrDoPKmXpKk9YakV7JQSVo37uHUiBkVn65NZK6HdGWbcybpAaqJTUtdVY8r22u", "token0": {"amount": 1.17, "symbol": "SOL", "usd_value": 202.0}, "token1": {"amount": 96300.81, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3nb8rDPSjNrBN9tmPpHprDLKV5uvFji3UFv3FSrhy4H3gtgXr1ftzvRjuJGXAz8zPhDSsJBgA1zQP5QHX4YqX7sA", "token0": {"amount": 1.82, "symbol": "SOL", "usd_value": 314.46}, "token1": {"amount": 98058.92, "symbol": "Duo", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4AYv5rFswW3oBiHQgqbCTDYScLVwqVWkPz49zQJFxN9orgvADLNmWz7Rh1p9hb9XPN9B3XPdHiQY6muxnATNt9ML", "token0": {"amount": 31224.98, "symbol": "CAR", "usd_value": 534.92}, "token1": {"amount": 3.09, "symbol": "SOL", "usd_value": 173.02}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "61vJQeJsxr9KmiVvKR3bMXvzZpf7JjhQUjFcucVMQKbbQMN7WKnABwmK1xgqZ6JyEK7Sh68SL2jzDAPes3SkVGHX", "token0": {"amount": 424159.93, "symbol": "YzY", "usd_value": 796.18}, "token1": {"amount": 4.6, "symbol": "SOL", "usd_value": 172.99}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5Nx2U7LCwB1DkaSAb4hnBmkJzEA2wuCmL37GLadynBmGz4eYZMzt6okpwNQCJuArKaVTuYibEMMdrf3YdfAjkQUp", "token0": {"amount": 1.42, "symbol": "SOL", "usd_value": 246.24}, "token1": {"amount": 263296.74, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5ow7NS5sMUbFp7Y55eY5ZCXLveyHy2Fyn2EibqqtSg3KDRkf9PQz4of8HqF7UnU1yB1CrB1gwbrADc1s7GB57QCY", "token0": {"amount": 2.15, "symbol": "SOL", "usd_value": 372.51}, "token1": {"amount": 209119.79, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2FydpJgGbdDaE2K3xktj8FWaBZko5x5heAbke3QMLRjRxsPZTc6HCCmkFMqAgZbBczAPEfZ1XNgbMkajo9oBZv1v", "token0": {"amount": 209119.79, "symbol": "YzY", "usd_value": 451.14}, "token1": {"amount": 2.61, "symbol": "SOL", "usd_value": 173.12}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5GC8dxdhWCKUkzwPCv3FPXeuHXVd7gi7h4fggdctQaFN9djx9pw2jt6y7pyafymQCAqoHtKccx7zfF3kkNfU6G58", "token0": {"amount": 262568.94, "symbol": "Lethe", "usd_value": 561.22}, "token1": {"amount": 3.24, "symbol": "SOL", "usd_value": 173.35}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "TAggfzUFdi7GQHort1CzShyU64tXbpzg1F1mhyGBQbwxBefEucPr2CQ6XJjswRKXuKY77Vw72djxSCLuCn4Arax", "token0": {"amount": 0.9, "symbol": "SOL", "usd_value": 156.02}, "token1": {"amount": 79577.1, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5R7zLVH1R3pr9QkpVG1bdPb4Vh1cwx8DxPKrcJihwpCSaE6Jf5VLeawaSCg3DokQysgSw19wbEEDdYuV3KSD5KcG", "token0": {"amount": 79577.1, "symbol": "YzY", "usd_value": 175.7}, "token1": {"amount": 1.01, "symbol": "SOL", "usd_value": 173.42}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4n9NLAAh8U9KcWTFCKBdwf1L7NkUyJk2vuzP2wbQWrWiMvyfTE2i7mawfTZgp1yaTi8pyCkMpFL2mAZJhA5wQGAf", "token0": {"amount": 2.27, "symbol": "SOL", "usd_value": 394.58}, "token1": {"amount": 180906.04, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5MDcRWirxyp9wpUzZ5bQJYQ88RoFzL8YZJQSoumc9WTD6bpuDW4jbrzXUh7eZkiuvD6L98nFKeKDLSos36wrvN8d", "token0": {"amount": 18840.05, "symbol": "LUMO", "usd_value": 150.57}, "token1": {"amount": 0.87, "symbol": "SOL", "usd_value": 173.62}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3z6z4uRPVEp8XzZb8q1qEu5aHZzd3YbiKeQxncefLLinGpb6RQhsShZfQokTqtY6yg8kf8yGP9nejQBgzRNbJK1P", "token0": {"amount": 197528.44, "symbol": "GNOCCHI", "usd_value": 204.36}, "token1": {"amount": 1.18, "symbol": "SOL", "usd_value": 173.62}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5ph9mgLcn9Vd3VjegjeM63kq3s5TDFcGfP4xjUtAwdgF3s1t1MEKNbaVryrzChN7VAUWyWFzymfAYR2EZgFC6pwu", "token0": {"amount": 8.05, "symbol": "SOL", "usd_value": 1395.26}, "token1": {"amount": 753051.45, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "26M4hFtmjgdzi2TfZgXBMqMiiTsLLSZ1vXAAnYoxu4cjEaDRuZUtemhHVTLvZpVQNdGGamfCTp3Ave2vFVMQsz6U", "token0": {"amount": 180906.04, "symbol": "YzY", "usd_value": 398.07}, "token1": {"amount": 2.3, "symbol": "SOL", "usd_value": 173.39}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "51Uk7VVqT2RZU54JDLg89CRpJTwUBFkzcstc3R6EjmjLPHZsNZS794hB7kpLFwzEB5wozvN1h2zqxMS3Ftq8TZrr", "token0": {"amount": 1.05, "symbol": "SOL", "usd_value": 182.82}, "token1": {"amount": 188930.6, "symbol": "GNOCCHI", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2HCJF7PnqcsVSEeUWDMchhcZTQ35XpCVeuALTYbfShTgu5o5tip4ijwWYdQ5KZNifQFzdBECrZoUHUvsZc4hCsmj", "token0": {"amount": 18933.98, "symbol": "LUMO", "usd_value": 150.37}, "token1": {"amount": 0.87, "symbol": "SOL", "usd_value": 172.99}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4frUQVsZZJ3Xm1gL4WyGunvMQLhyUXSvJGRqs8jRbmhAmfRDxdM5LAPFeWtUHWtT6h5yy2ASCfWdafhxeciTfVtL", "token0": {"amount": 253087.66, "symbol": "Lethe", "usd_value": 501.77}, "token1": {"amount": 2.9, "symbol": "SOL", "usd_value": 172.98}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4Q7WQgUzVoTQF4qbixui7LAVnS1faDRPB4Xn3dLNg8gfgXPXWRCiovBfbKz3oGLKK75ySFsGnaWZDaZ7Y9Y3f3yU", "token0": {"amount": 1.34, "symbol": "SOL", "usd_value": 231.21}, "token1": {"amount": 114839.84, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3fqdr8VyZC8ybNy9Ukrp6qmLWHv8tnvkuZR8EuYo1gsziBm9iYCr3UrdNTRLNXU5Kd1RiXtZaLn9dTDJ9siMEdCB", "token0": {"amount": 2.95, "symbol": "SOL", "usd_value": 510.93}, "token1": {"amount": 121362.48, "symbol": "FARTGIRL", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4jgmgD8U4K3vScVnxuvuVQne8HctKYSTsXaorSMGB67yRACbQbW2j6zWDhkXuiqFg5hug9YYuNLpUyPexRXXhsaZ", "token0": {"amount": 269149.52, "symbol": "GROK3", "usd_value": 243.65}, "token1": {"amount": 1.41, "symbol": "SOL", "usd_value": 173.28}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "21naadoYs3Fr7VpjBkGsMxevB9WfmAk8h2eSAHNnhr7yHmTbT49THEQiSGgyLJVYsSM5zad8PtYSBrnCSfzuzotu", "token0": {"amount": 82363.5, "symbol": "LUMO", "usd_value": 683.13}, "token1": {"amount": 3.93, "symbol": "SOL", "usd_value": 173.79}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2GNXLiPnw62mapi6ogQS9fHRGYAuCUd3p4gUA87mZiJW99FYKGDWs2Cs9svgcXHe41vBFgPBosaaDC49AvjY3fR7", "token0": {"amount": 98058.92, "symbol": "Duo", "usd_value": 322.99}, "token1": {"amount": 1.86, "symbol": "SOL", "usd_value": 173.33}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "qqG1gLyHpFMa7RrGMSckDMJLGotyPQeWG9Vf238V5PVyofAEkJw1EEGNdCV1JdBWrz15wVMAkuw2GVYe3s1DAxf", "token0": {"amount": 168556.07, "symbol": "Lethe", "usd_value": 356.3}, "token1": {"amount": 2.06, "symbol": "SOL", "usd_value": 173.14}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5ok5NvhmCXMhUf6wv87fUbe1CPK5B8xcifJx3RwXSx2ZJjVtBMycmZLGGsma6eG4hAzTgLcHhC3GaziSEivc7utb", "token0": {"amount": 114839.84, "symbol": "YzY", "usd_value": 244.88}, "token1": {"amount": 1.42, "symbol": "SOL", "usd_value": 173.04}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2vMjaTkzRPjuniGm6V9wDRZFBz5oSswfv9RYZaE2JibuKrmMZrckqDkv3MeKuqSrWpBqRFmWaHhgd9A5nA2VvoU4", "token0": {"amount": 1.02, "symbol": "SOL", "usd_value": 176.57}, "token1": {"amount": 268056.4, "symbol": "DEEP", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "48xitQVZKob7sPiaJmPDsnj3p8kszNx9YT3NEfuKFhZpnghiWQaXBaic5KhHb8aeYHUnUun6DCPhgBqsF92orpKq", "token0": {"amount": 1.95, "symbol": "SOL", "usd_value": 1543.02}, "token1": {"amount": 168872.53, "symbol": "YzY", "usd_value": 0.01}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4ddYoXciukU1wPTUeUA2qcU9idP7ymGW89k1JzviDmevCRcAJv2cz7JKxFHhrXLw568Mt81Di9Kb3ApZqz12Npu7", "token0": {"amount": 121362.48, "symbol": "FARTGIRL", "usd_value": 2557.24}, "token1": {"amount": 3.23, "symbol": "SOL", "usd_value": 792.93}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3eSJP97fF4eRnff9oJ7aw9L7MwH3dfvyeMnChvjRD4fBxwvwe3kBMaysorTk194SPHYqxSLKnmYTfB4wNHGpZvN7", "token0": {"amount": 1.4, "symbol": "SOL", "usd_value": 1108.72}, "token1": {"amount": 124135.23, "symbol": "YzY", "usd_value": 0.01}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2ASSSddxeaumxqGeTPRURYQmZ1QLKpaLugxbj1cYTYBsKq16nhQAGoiwhEZVxn83UjY3LmQ8Q2re9WpNFzbiwgEW", "token0": {"amount": 0.47, "symbol": "SOL", "usd_value": 81.24}, "token1": {"amount": 246581.96, "symbol": "HIBER", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4CgoGpgYJLojpr8EXKRKgF8fBP4dxxSip9C9pYUsMYHqZ5ogiZFr8fK4moejePepUs6m99AsKFpSQxyZ3kmdBr5k", "token0": {"amount": 373603.68, "symbol": "Lethe", "usd_value": 775.4}, "token1": {"amount": 4.47, "symbol": "SOL", "usd_value": 173.34}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "PbimG2yHDs3g4EnfSRJKQd1RUkpust8pr5XcbS3ZfceduHKTgDNxNjvkey7EP6hFdHxPEYN2cHXVbiZ4Tby5ck4", "token0": {"amount": 1.34, "symbol": "SOL", "usd_value": 231.88}, "token1": {"amount": 268587.96, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5wBNUktw38qbPHLvpzAdABKBHbeX628NCXpAPRQjQebdoZsRMhrviBUhg33TdkYtkKKX27ihjW5d71waneMwS5Dy", "token0": {"amount": 0.67, "symbol": "SOL", "usd_value": 115.45}, "token1": {"amount": 365455.84, "symbol": "HIBER", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "qEL46EpbJqBWTmSg1STPK2o8vvwMaYYS3vYJaPHhbEiDpL7Mgg456eg1fFEM4iEHdH5JTi6y3m9TVvFKVeazccT", "token0": {"amount": 188930.6, "symbol": "GNOCCHI", "usd_value": 205.9}, "token1": {"amount": 1.19, "symbol": "SOL", "usd_value": 173.22}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2NKX7qy8djqyTnbUxwjgdn7Vw4VKHgQLWhxUXtCwRNyEuqmyKkKGdxWAqus68gVC6p9U1jHr4WabgJwvWAjdkzmL", "token0": {"amount": 478847.31, "symbol": "GROK3", "usd_value": 421.29}, "token1": {"amount": 2.43, "symbol": "SOL", "usd_value": 173.56}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2cfMmmQtVS4iashvk4YhPTTQUSBWLkJ4qo3oszb61wi8kHFYeFiy6Uw7pH4ebvDKmshQzAtsZh3WQ2imxgTq4KRS", "token0": {"amount": 100310.88, "symbol": "DEEP", "usd_value": 66.51}, "token1": {"amount": 0.38, "symbol": "SOL", "usd_value": 173.56}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5KWT7RaUiF8kp4hPG3uoGq3Afbr18cvpdgtvtemBoY2BroeJ2xp2WqYiFPrqEm2VGqSY2E64rNqeB9fEXLL8Ysci", "token0": {"amount": 1.01, "symbol": "SOL", "usd_value": 175.5}, "token1": {"amount": 93975.47, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3QDntUBhshuB1q6zc82RSgiNYiBfXN2PhML8arCSxgbvDVTEs9WDVCdPmKKeDL3XkkU2eRC3a7LXYyc7a6uuAcAn", "token0": {"amount": 157141.38, "symbol": "GROK3", "usd_value": 146.87}, "token1": {"amount": 0.85, "symbol": "SOL", "usd_value": 173.41}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "19qstEExhNH7hm1LW3iEUfzn5VWWojK8chPqXJZUoNpRQ6K9RB5NXiZcqS84Z41XeTBhNhZKyL9w5WxH92MkwSp", "token0": {"amount": 194449.06, "symbol": "YzY", "usd_value": 348.09}, "token1": {"amount": 2.01, "symbol": "SOL", "usd_value": 173.57}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3yKwtKLXiKiLRVMKdrBUszdqqUoCLp6R3KBBs7hibCdAGvKRjcBNUqwbHgTHVQALaFW7KbCqfbw5cdUEKGP4CJrd", "token0": {"amount": 0.96, "symbol": "SOL", "usd_value": 167.14}, "token1": {"amount": 164676.27, "symbol": "CYB", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4xHxbLi1B4F9GU9xAUyomHv2VhwQ9Rst937JJkKHtYzF9T9msedCtSzPtEzUN734hfmZcc7hPvipegpAB8iRiyuR", "token0": {"amount": 1.71, "symbol": "SOL", "usd_value": 296.87}, "token1": {"amount": 179430.71, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5HqLodeVRoSEzCQcJ57RcnwMQ3Yfnpx6buGjToWzcKXTMoqHcLDwLMAViUfHVXz1HGUZrtF3YSHsDGFPEYh5NAkz", "token0": {"amount": 0.45, "symbol": "SOL", "usd_value": 77.58}, "token1": {"amount": 143674.62, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "ozruduZBFk5vWWSo1kcBipXy8jQu7L1LUXu8pZ3NwkEobRfsJHUWTkpibAeHRiAsGP2gPQjTS2WgcWdec4nTxdg", "token0": {"amount": 0.9, "symbol": "SOL", "usd_value": 156.34}, "token1": {"amount": 309529.39, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "MpQGM2b1nxmdhr1xGWKHLtYsArCBKRYb1A5kGgiFJH87wBRbmdD1sUZvmhiriCdwAkjz7FAy8mgmyYGmRtCJuxH", "token0": {"amount": 1.1, "symbol": "SOL", "usd_value": 190.32}, "token1": {"amount": 80261.67, "symbol": "DB", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4c6yxTyTdxnwMhySD9Zwpj2jJnq4hYzDyD4PgUogFLJw8Rmhg8WcnsY2oPUCfGTNBMbyAHUWHQGEyn4QpaV9oxiD", "token0": {"amount": 0.73, "symbol": "SOL", "usd_value": 127.42}, "token1": {"amount": 60611.54, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5J85DBZbg6bmL785Xv69DWrsodrik15eZfkYXLWDRB98oyzv8rBZtRZ17EkQw8uNwYXnaeQUDMKgkeDz3fQLgGfj", "token0": {"amount": 7.79, "symbol": "SOL", "usd_value": 1352.16}, "token1": {"amount": 733466.72, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "fpdHfYpvUCKPgyovZcDD9nJQHSJJhUpVBU3S9ut87H1Hkh2KhUFXW5U6BrSJMKmVMW6s2cFp5QKy1eARTwbT83g", "token0": {"amount": 0.0, "symbol": "SOL", "usd_value": 0.16}, "token1": {"amount": 83.92, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "64w5LtN38drcg1pQUZw3EgxnHkubVBMHRfjkmkoEHoYJAzbybWwKXu4D2ANeZk9ytyy6wf5iHpTCr7hyHGmWFqJr", "token0": {"amount": 99849.89, "symbol": "DEEP", "usd_value": 65.72}, "token1": {"amount": 0.38, "symbol": "SOL", "usd_value": 173.64}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2KHFKWNeC9YGYj4NaUFPcjWo66vYh9Lr5emc4nmNfeJoZht3hzjZgXhKnouwLjS1TDSV6utnFqLi1SeiijucLMj9", "token0": {"amount": 0.77, "symbol": "SOL", "usd_value": 134.09}, "token1": {"amount": 80721.3, "symbol": "ACE", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3QocaGxT3Evc46HsAwZ9sKf57f4HABwxKgtnNjdTWJgcspYnc299MnbQVhqoHszb2cncWBiMMPfohGSvMpjQ16Sx", "token0": {"amount": 405255.37, "symbol": "BZZZZ", "usd_value": 197.85}, "token1": {"amount": 1.14, "symbol": "SOL", "usd_value": 173.78}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5NXustyXip2gqoCSp3Lp44qpZW31HyRsN9nWmtgVgp9Rof3ftqqU5V2womLfRnkKM6HGCUJnNSNcLwSwB5niTeze", "token0": {"amount": 47948.64, "symbol": "BZZZZ", "usd_value": 24.64}, "token1": {"amount": 0.14, "symbol": "SOL", "usd_value": 173.74}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "FDRmCKD2E9KzHfEAoorPEKFonJk76R2rPMXQuKXouXYr4YpPiVH5z89zoFiJmFTz2E7jNHy4W5qDAZV6mPhcEE4", "token0": {"amount": 0.36, "symbol": "SOL", "usd_value": 62.33}, "token1": {"amount": 129509.78, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3ooR3a78Lr6bff2kiGkpCo4CFMabA5YvKVcaZWhNZczJ8o4uFbHsA355uJYcj6TaSjoMUzFLzireHdBBKXzAPD2", "token0": {"amount": 210222.33, "symbol": "Lethe", "usd_value": 403.6}, "token1": {"amount": 2.32, "symbol": "SOL", "usd_value": 173.6}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "jvyVVkz7shZw58FYKaW1KBPaMaDbSY3JLsYoTTDURLCxuySGcgVXbRCXorQNFAeXW2od2hsFeBNpqQAQeEi26y7", "token0": {"amount": 0.58, "symbol": "SOL", "usd_value": 100.48}, "token1": {"amount": 217225.08, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "57W5hDEyouczG7TMx1ecBgCjBWRU7NEwoJznAJnAuNCMf8UU1AjimguWZ8Xwi68XuETmom5WXVoTnGc8hkX5LFdr", "token0": {"amount": 612037.8, "symbol": "HIBER", "usd_value": 193.13}, "token1": {"amount": 1.11, "symbol": "SOL", "usd_value": 173.48}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3pFYagjx3FvfwBJb98yhn8DoNRWaRVrPyEkS85QEsXVFFYHhfLsvnmZBGashvXMTov4HSPLnbaycEktZTr2YxZvS", "token0": {"amount": 0.4, "symbol": "SOL", "usd_value": 69.37}, "token1": {"amount": 152285.22, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2cR8KTSHvPb7vTg6MJykG7PupfE5ciWSbz7HKGArFgF15YMaCjDVUQ7qun9FXnYNpwTq9uNvwmjTaJQf9Gvb1SGe", "token0": {"amount": 1.65, "symbol": "SOL", "usd_value": 141.45}, "token1": {"amount": 173188.43, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3xcEb6yb6TA3Ayvcrkens849NrVPtGzHq4HeQSxK6FnrXwpzGf3i6x9NJfqoFjcxPzzhesMtdChWoYLf27tukQqL", "token0": {"amount": 137266.27, "symbol": "DEEP", "usd_value": 90.62}, "token1": {"amount": 0.52, "symbol": "SOL", "usd_value": 173.29}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "M25s2uzuDPaucHeyFA45QjXmsXSsmUj3ZTnomLonSANVNufHfVPvvEvJ8ehCG4k724B9vRrHXPSWb554ot9Xh2X", "token0": {"amount": 202726.57, "symbol": "YzY", "usd_value": 346.54}, "token1": {"amount": 2.0, "symbol": "SOL", "usd_value": 173.29}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3mEQwhSUP1GgC1vhjnYEeAEAJxTavrPPBmKn2Zx2aa9K2YnNUgsr2DkikVUTReuW994baU2H1HPvK2TcirgfeJUx", "token0": {"amount": 383672.3, "symbol": "BZZZZ", "usd_value": 178.29}, "token1": {"amount": 1.03, "symbol": "SOL", "usd_value": 173.29}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "42jnufHKmJDC7Lugsy7niKtmnVUoKsKTkwHqJ13oyG1ogYy46fcL868Yr7qfjD4o7Cn1psdVNU7yyuba3s8HKHTy", "token0": {"amount": 100532.63, "symbol": "DEEP", "usd_value": 66.42}, "token1": {"amount": 0.38, "symbol": "SOL", "usd_value": 173.29}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2fsXMoyBFLGYb3UmZtRss7oE3XRb4ZUQzG9FqTsuNVajtxyduosWN8w4uif7G67s6qCrZujMAfo3iePB8C3PZhoc", "token0": {"amount": 1.95, "symbol": "SOL", "usd_value": 338.01}, "token1": {"amount": 199217.6, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3efXrYDAGgaLkoCjXSTKonQwLfRCTKmTWaFqopC7jKvxg5r15Y7ZCvjg5Wo62SDB3My7juaCbQYQBhckUuqkeYtc", "token0": {"amount": 115347.79, "symbol": "BZZZZ", "usd_value": 57.34}, "token1": {"amount": 0.33, "symbol": "SOL", "usd_value": 173.3}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2CvJtanEgqjUH97T9UAAwTftkagvttbiz5m9o7Shfg3ZWt4KWFuKaWv7cmua5uDDaHGq7tz99pC7tKXbjAxADDri", "token0": {"amount": 187296.45, "symbol": "Lethe", "usd_value": 348.5}, "token1": {"amount": 2.01, "symbol": "SOL", "usd_value": 173.36}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "36XmmZP32QLZVs5FTP3AXHxhwMNizr5eVKYSAkJciXeRhtHRoPGfFL8rZZUEwm56NTJCL35eSJcB7U2A63mFtuFq", "token0": {"amount": 0.36, "symbol": "SOL", "usd_value": 62.11}, "token1": {"amount": 129624.54, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2YrnLkHWtbTzE1G6g72KhCybVnhaFUX2bnR7EqPJy2CkBQGKo5JgqxXyxV7eiwVU2XtxeLmpnmmfpG3E83uzjAhU", "token0": {"amount": 0.64, "symbol": "SOL", "usd_value": 111.23}, "token1": {"amount": 244344.87, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2zpFPw8d3YGNAWzMuMQ8CiXqjnSY57JbABy9svkXjUWUfWmbesaYfFuk24nTJPGcpVbFEHgYwgoFKQg8doGwc4q3", "token0": {"amount": 164676.27, "symbol": "CYB", "usd_value": 185.72}, "token1": {"amount": 1.07, "symbol": "SOL", "usd_value": 173.26}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "U9Wxy8emMVyogt6FfoP5LWyGnChrYEZhp67cGA96H6mcJLgjdArqHvCWsFMygh9HH3tyWT63bZqrq7yfs2nnWuz", "token0": {"amount": 4.73, "symbol": "SOL", "usd_value": 818.94}, "token1": {"amount": 48815.41, "symbol": "CAR", "usd_value": 0.02}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3ZBi2yNoFk7ZCG4vQ3GRzF14JKKnEQapeQmMX98XR4X93gnv28Vi35rr9woQo6siTwPpJnHGaSThthx1u7rgNzrC", "token0": {"amount": 4.19, "symbol": "SOL", "usd_value": 726.02}, "token1": {"amount": 512652.76, "symbol": "ACE", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4vAoYSpwRTm6u9w5K3J8itws8tEVtsGhCJrxnsqkLw2Q4S6PKnz5KBR23nZ9puLg8buua4Cci6LchEBDbH28F8X1", "token0": {"amount": 80721.3, "symbol": "ACE", "usd_value": 114.76}, "token1": {"amount": 0.66, "symbol": "SOL", "usd_value": 173.17}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4kqEpfmLUpHKLGXfY1XUNu7TJaD7qxcFQ7JE1nt6jMG3pTy8ZgXDVBBp8GmSxNYkpJBsdGHx3o3oX1gsCgBfhEvP", "token0": {"amount": 0.38, "symbol": "SOL", "usd_value": 65.99}, "token1": {"amount": 146965.61, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "j5oPx3evDY7MFWUxwrqwoDXjVvjgJ5Cgd46ucZmDkUwZmXatPqPaRJmnSHSJBK4c1Mb6PT1eqieLE5jtmbjBuHj", "token0": {"amount": 126338.23, "symbol": "Lethe", "usd_value": 240.61}, "token1": {"amount": 1.39, "symbol": "SOL", "usd_value": 172.94}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4HQPySDtErmA3LNrct7Vqx3Z1C2vbHffp2FKrBbEsLsbgYnnGwcA4nW9bMcTBp5om3ZXjjoiNQDtEUHxkcNPEm5k", "token0": {"amount": 410690.72, "symbol": "BZZZZ", "usd_value": 187.21}, "token1": {"amount": 1.08, "symbol": "SOL", "usd_value": 173.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5AvHFBHmJ3SBpnoGdfwLScApQGvT28L7zdyUC7WZqYxV8Pfe5mRYZBJEwgczDpbLrrfGzm3K6nRasSxEqY3dNH29", "token0": {"amount": 1.12, "symbol": "SOL", "usd_value": 194.32}, "token1": {"amount": 113265.85, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2enDRBX1D2NurHYPEbyVJ3e7VgWePKkBmTotfBL2h6mwUmM8Uuy3de5aGT6RNSQWHpX7pdT7Sx6PXPNS17W133fz", "token0": {"amount": 0.91, "symbol": "SOL", "usd_value": 157.29}, "token1": {"amount": 186727.74, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4BFVeHwjvYfmvwJvy5EqbDgNpc4JCZRjuDsiZxpzhmSUgnzeF9MjUfUsqWukGmn2p98HRK32LeWJHCLf6RDU5NHb", "token0": {"amount": 0.36, "symbol": "SOL", "usd_value": 63.18}, "token1": {"amount": 141883.03, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2WnQDu9Xuc8d4jQWPfwaMA7Miq8Xx2Prt2jYuwZv2z3S1SNQ8Xrt7EGNAcmSJvots4rhpRcVVFo2f1JPc2xSjCre", "token0": {"amount": 3.67, "symbol": "SOL", "usd_value": 637.2}, "token1": {"amount": 36057.55, "symbol": "CAR", "usd_value": 0.02}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "47t5hyHKKDDj8RM7N9EK8ZEiWN96EyDLTEhd2F2RGRVWfbEZpxgo6sbwgzA3QAtpGqyANRrPubyWBRSR4BeX4gca", "token0": {"amount": 0.88, "symbol": "SOL", "usd_value": 151.87}, "token1": {"amount": 89253.4, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3GkSuMjp94fZ8bZWyMKJsnkpgiuiGbSnRk8wpbXpNehiDJQNPvSysSopGDjVDBFDGVY9SHhZCY5mrAKKjERLKFkS", "token0": {"amount": 0.67, "symbol": "SOL", "usd_value": 115.76}, "token1": {"amount": 79202.1, "symbol": "ACE", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3d3m3bEgbPi4bDjTPgZw2bzwm1t7UoQTTRDDAHjKUiDBPKJNuiQJA1as19jBVPwfTz8Nxysf7KtE1SsKyHHdQUsE", "token0": {"amount": 80261.67, "symbol": "DB", "usd_value": 196.53}, "token1": {"amount": 1.13, "symbol": "SOL", "usd_value": 173.6}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3VuYhcqKpYnYKupQvFFJhLn7nQYFyf7wiwimsJEmNyLxrJFU3heEgF3hp8DMCKgAk9uyntHQQ4wQDVDhnARMrJqN", "token0": {"amount": 0.74, "symbol": "SOL", "usd_value": 128.35}, "token1": {"amount": 289278.87, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3AXXM6y5Hy1ytuYbd3SdC4G8zDS6FQdtDFrSmJSCFJHytxsqT6agv65Y5FS5ax5D7UTQ6fJfhwbRmQX2C6Ym1WPS", "token0": {"amount": 591854.87, "symbol": "ACE", "usd_value": 867.03}, "token1": {"amount": 4.99, "symbol": "SOL", "usd_value": 173.66}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3qCPhf9xY5vqXSRCTWfRATe6bwX85ZrcAFmAT1DmCqX9HFP4M73KNsZcwm3oeehLK4uP8pjcps6wpuU1HcRjWrrT", "token0": {"amount": 1.84, "symbol": "SOL", "usd_value": 319.85}, "token1": {"amount": 388049.77, "symbol": "GROK3", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2ELd17Pg8SDiXDenQ5E8teey1nSUcEXZXSH2FARpVf3Nt7A9NTmhH6Be3BrB795inVJLshf1CNukDtbZVTHUMFtu", "token0": {"amount": 8.63, "symbol": "SOL", "usd_value": 1499.87}, "token1": {"amount": 16828.52, "symbol": "FARTBOY", "usd_value": 0.09}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5BexLnCoZvstiAANGdWD2nW9EF9wZw4GReh31S6xQmXZ6edyqsrxidNDfaQy7k1SnVtNRGCqofTQEEDaNSAHmUzS", "token0": {"amount": 405680.33, "symbol": "BZZZZ", "usd_value": 175.15}, "token1": {"amount": 1.01, "symbol": "SOL", "usd_value": 173.81}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2kF2aY93p2ksg5Zt1gmqZsGH4xKFwXPjUZNdX4nNoGurW4orMRdAwsCS9gGATCu7dGbuiGA15iAAPXSmMq8GzyJK", "token0": {"amount": 296050.92, "symbol": "YzY", "usd_value": 502.53}, "token1": {"amount": 2.9, "symbol": "SOL", "usd_value": 173.56}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5v3zbxhK74QYxJz1YEarH9SCs6Zn372PC4jhZ2r1zqo8sRHrotxn5gqpTpVyAQAipV9ijRB9TwhGUGB9qiYdeMef", "token0": {"amount": 574777.51, "symbol": "GROK3", "usd_value": 499.24}, "token1": {"amount": 2.87, "symbol": "SOL", "usd_value": 173.71}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2T2xrN6Q1thMHvrsxhFoNZpQzBQk2BihgzKhSuzVvAnSxAfCKzhBLhuyWNRfRqjvsGXsmj7eZs52Zq8ojBBdUetA", "token0": {"amount": 0.44, "symbol": "SOL", "usd_value": 77.24}, "token1": {"amount": 188740.75, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5Fp5JjrWnifgX7M2pjJnpHFgBvxeP1p15PXdsjCgxpn4Ld9stEbCcLAHN1Y6oVRHjJ3UH775ZGiMWsnsEAaYFKNw", "token0": {"amount": 324466.64, "symbol": "BZZZZ", "usd_value": 132.68}, "token1": {"amount": 0.76, "symbol": "SOL", "usd_value": 173.78}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "41VNeiTNL2XAzYcamFwCar1vKemDp5j1bxKea8gAoPAVVYUuK4o3EqSZLHLCaW9uPrVkQJ6RggwYMBCVYaUtEHko", "token0": {"amount": 1.59, "symbol": "SOL", "usd_value": 276.92}, "token1": {"amount": 181277.05, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5EAXfSszNf2kesLof352rG5bjQn2jhV44NuGe1qrvFqthk42yN915QQTgMhRy2FPXPTocx4jVfPnkSE8A7SJmN3L", "token0": {"amount": 183586.21, "symbol": "Lethe", "usd_value": 288.57}, "token1": {"amount": 1.66, "symbol": "SOL", "usd_value": 173.87}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "VyRB8TNTrQiZEWtgo2FnSJoaofKDAcMbVsE7yYn8W9gnN3MyEXwL3qbeDRVna1VsSgf4AzyMfJy3zSmMroyNdUS", "token0": {"amount": 106739.64, "symbol": "Lethe", "usd_value": 170.9}, "token1": {"amount": 0.98, "symbol": "SOL", "usd_value": 174.15}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "g59VGwSTc7rH2B2MnGBPWqQWm9Ef2wwMeRxit3srzK7S935Hfu7ESmHFvg73PaLE4MQRzMuBm4DDNNUfoFdzmnx", "token0": {"amount": 46375.82, "symbol": "YzY", "usd_value": 82.63}, "token1": {"amount": 0.47, "symbol": "SOL", "usd_value": 174.15}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2yquHUu5UTCAWGiY2kCgLGq47mRfHdLBUwPxrUfDwQrHQaE4P1MTQ5ah82jSFE5krUFVgwAXXJatMbXvwQh49xh9", "token0": {"amount": 3993.2, "symbol": "DEEP", "usd_value": 2.77}, "token1": {"amount": 0.02, "symbol": "SOL", "usd_value": 173.84}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "66FVc8S83baBZrY3o2FVYZV9xtjjDDGf5p6RygFTuF1u5AvQnsw7ZTtS52mX6MzeAF52FUFk52gcwE5FBjMz9kcy", "token0": {"amount": 3.06, "symbol": "SOL", "usd_value": 532.78}, "token1": {"amount": 386831.56, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "34yTUS1qeGyGVqQPiaqysa9X2NGdg3X8zFF2QHycC7QuNEaS8Dr4nuowtaSPuKhoACTXC2gUZXMYCMihYELfigvd", "token0": {"amount": 165375.1, "symbol": "Lethe", "usd_value": 242.96}, "token1": {"amount": 1.4, "symbol": "SOL", "usd_value": 173.86}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4xZVCcaLeu9Qiw1QTYzR75izjGoTatCxFPLNUvd48GEQGmAYtZ97QV7Pjswzgk2t26o2DMDRfasxc6X66Y4TQBdR", "token0": {"amount": 0.54, "symbol": "SOL", "usd_value": 93.6}, "token1": {"amount": 232070.07, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "vGs8YUt6MY7LcA5yqhkq1F4auh9masFwa4bHfWKKRHH64twjeZKK4cr8UEagMZX2keGzvMiLjm76qxYsn2KM94W", "token0": {"amount": 207992.97, "symbol": "Lethe", "usd_value": 315.24}, "token1": {"amount": 1.81, "symbol": "SOL", "usd_value": 173.9}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "65YDiqT2GN5nwzAHqf2Q4LG5u41aJ2quy3js1pPXzUvCrZ9hmieKdW5e4zDG781crsEmgZAG3ExHbezNweGNU2SB", "token0": {"amount": 251164.97, "symbol": "Lethe", "usd_value": 357.89}, "token1": {"amount": 2.06, "symbol": "SOL", "usd_value": 174.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "6iApez8oxA3baxpaD4QVWNHDsXBPbxpmHZnXGdavCVczDdi57M9hJneJJCXDrHs9davGdrPb3BWsSDsk1r3XADX", "token0": {"amount": 1.45, "symbol": "SOL", "usd_value": 253.01}, "token1": {"amount": 134885.9, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2W5cg9RJDT5XqjGFhq6dVssoW7xa14gJmQn7nFqfvxTA6Rt1WGnoWcQ2wcFKzQsuMLEJ2HnMBDTHNKRihfKC6ead", "token0": {"amount": 116929.81, "symbol": "Lethe", "usd_value": 171.39}, "token1": {"amount": 0.99, "symbol": "SOL", "usd_value": 174.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2gB6XDxcHC966VpR7auqwhx4FxZ7kPUtcmAdkf5ER3dAgv4G94nLham8FZ1Zky8gVSpZBCL63F26EFK6cG45JWE1", "token0": {"amount": 1.13, "symbol": "SOL", "usd_value": 196.46}, "token1": {"amount": 107549.03, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "38oUqq58Pm93h6B9JXFg3Z91Xhat5cQMu8HGGWBKoEQRBRsSRGj5L7XvGwstReFSPjRRSA8WGwBob8L7zE361RLA", "token0": {"amount": 0.85, "symbol": "SOL", "usd_value": 148.3}, "token1": {"amount": 390260.41, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "53TBhkEG7Jqo2yuoCRtXo6qY8csuKqcfT35LkCbNqu1edZP7ECa9QM8NoJofjKAX2SYjcSvTJApPPREao3HA4ncw", "token0": {"amount": 5.04, "symbol": "SOL", "usd_value": 879.86}, "token1": {"amount": 472007.65, "symbol": "DB", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "37GLegikD9wDw84FVQ9thxBtvYjV9rFR8qQji7b9CMzETHss9JWkPpDNqVnLxzpf486XbAjZJ88gcp8P1wkAoQji", "token0": {"amount": 1.34, "symbol": "SOL", "usd_value": 232.98}, "token1": {"amount": 124123.07, "symbol": "DB", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "25Ez2QNhV5xA3W1wCufa1gckSitrfa46chiLoLUE6N8z9uHEETysza9CRe2A6a6NJG4GAuwZ2RYb3M3id69GHJgU", "token0": {"amount": 4607.63, "symbol": "FARTBOY", "usd_value": 417.05}, "token1": {"amount": 2.39, "symbol": "SOL", "usd_value": 174.44}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4APKfxcz9FVts2EBnJDFzgfgEht52baNkr4fWCbk6qpoFapakb4apnsgtpUWPV6YWihntjyatQa8AvN15vPc1QCS", "token0": {"amount": 2611.87, "symbol": "FARTBOY", "usd_value": 237.57}, "token1": {"amount": 1.36, "symbol": "SOL", "usd_value": 174.44}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4pQcps6rF9JbHitpcx2VYanGQrBQFeRaaDXSve5FASkWideqzGM6gezqJRPA9hcG5zWVx4trogWWNRVXu3XWC2AJ", "token0": {"amount": 1.15, "symbol": "SOL", "usd_value": 200.79}, "token1": {"amount": 110700.06, "symbol": "DB", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5iqKWxfMPaU7792wdDKzHotbCu5n7Vparifyi4TsZ7KKYMYDbkGXpQGKbnsJ4RC8aQWQ4ggXpA6rnB2dWQceWujv", "token0": {"amount": 303568.96, "symbol": "DB", "usd_value": 585.85}, "token1": {"amount": 3.36, "symbol": "SOL", "usd_value": 174.32}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2iWBimeHpE6BhKajrFxhvo8uTMpbZxeuAJ3tXdpWgdXonsAXof6aKu1zbm86JQDG2Ad9YZ8U47jAh8JvSJNpwGRv", "token0": {"amount": 309619.11, "symbol": "DB", "usd_value": 604.2}, "token1": {"amount": 3.47, "symbol": "SOL", "usd_value": 174.32}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5fqq1HjtZgNqpPYJQC12o5ZQ4oKoMxFHhjkPLkxbmxiADzYrEo36y71NX1brd9MMfcUHmrHtBQNdVzP79eEhd64Z", "token0": {"amount": 93642.7, "symbol": "DB", "usd_value": 187.49}, "token1": {"amount": 1.08, "symbol": "SOL", "usd_value": 174.32}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "UEhXTZkzYmWRakbptFqsEy2jFmHnpbL5FmhqD28BEZkuLcaUaaaziKvY7HdcY1mKbCGMrbakph53faWTmsd2hD9", "token0": {"amount": 0.69, "symbol": "SOL", "usd_value": 120.6}, "token1": {"amount": 334484.71, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "mV6p13ZaxusaPx3iPNGKiykiUAim7hLLjJaHdSkzFfsbiCZR7FuUy1PN3WM3W2Kt59M79uvu8AcXgpfoR44VBn1", "token0": {"amount": 4.53, "symbol": "SOL", "usd_value": 787.81}, "token1": {"amount": 101462.06, "symbol": "LUMO", "usd_value": 0.01}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3dGd66kFMpLQHVBP9AM1nt5NqaFgUWV3aWGb8uW7kGmxhdKeUsPpWKu2Vmf6mSuLg7cob4MWPEMmuyaZoznwpskq", "token0": {"amount": 8326.06, "symbol": "CAR", "usd_value": 149.93}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3uuFhweGHeXVtLx48euS1B1PV7pWGcAdCoNbC7TDZ4TE4xKVcHr44vn1sFFzwnt8nqNA6pf6BHB8Z5cXaB1zvs6B", "token0": {"amount": 8325.36, "symbol": "CAR", "usd_value": 149.93}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "63Gbtxf17qMJGCrYaTKhSj1dJVpnpaDh5Je3JhenDMweJma289PfPXwsZtCtdPttNhwNxJWJswUTERvUt7jkT1A", "token0": {"amount": 8324.44, "symbol": "CAR", "usd_value": 150.18}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2SmC4h1RrvBHh5KsheS7sPQnySjd9vbKCxgDBtYe1YV95QxZcqzZvgFCiKgiPUuBtg4sXQAuJizwLHWkuaLbadM5", "token0": {"amount": 8321.79, "symbol": "CAR", "usd_value": 150.04}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2WMPCP6DA1UfRrTpDZ1rCvFAZfwCge4vHuRz2awsh1ZZ1uzRWQtLcEXD6z2GCjT57gjoV1H4e49EnfckLk8PsAE4", "token0": {"amount": 8320.92, "symbol": "CAR", "usd_value": 150.0}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "43ddveMiymgRZtszUZwHQ2U6uLzYZTFdfUwqFFR2FyCa9WAeWJwgKd2HUebfbxbzvvmvDCHQFHZir7L9oMvSu1FC", "token0": {"amount": 8320.68, "symbol": "CAR", "usd_value": 149.96}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5DjtwqKV45g3vSLAkMRZcJhKU7Xc25SnJvPwn6muFmaqG7nzwYSvsR2p14jbU6nvsi6KhtWSb5E4eGLqFYHGF8vh", "token0": {"amount": 8320.19, "symbol": "CAR", "usd_value": 149.93}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "51bKFMLhFzMN1gYi4bgfQXAh4ydYM7XetG7btykSz7UM7gLrXYEPS4mdEedsueXqWPjJSyw1Qf45ZjYyc6otmZz8", "token0": {"amount": 8319.8, "symbol": "CAR", "usd_value": 149.89}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "PFRNrZxqyDQaaqk8iZh4sPCN2BeQ3dYucf5fo7r6PsaKRWhqWUpAe4bvQioyMdAzPPMDW7o6AvPQrwH7To6UyZd", "token0": {"amount": 8319.03, "symbol": "CAR", "usd_value": 149.91}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "34dA6uEHCbLnTNFkR8Tq9ofbWnhr8G899LPPeLFTL9XFZg6uPSJC2YMrCDBjbkXTeYPfU7BEZAmSgBojAb5i1awK", "token0": {"amount": 8318.37, "symbol": "CAR", "usd_value": 149.93}, "token1": {"amount": 0.86, "symbol": "SOL", "usd_value": 173.75}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4QDLUxx9sg5gDcDxqQcK6yQUKnfwwYqYRfx9A7TNC3z568rPh1Tj2NHUmePichS2SACAqDiVoBLDX8HFwz27WSSD", "token0": {"amount": 461964.15, "symbol": "BZZZZ", "usd_value": 171.68}, "token1": {"amount": 0.99, "symbol": "SOL", "usd_value": 173.79}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "39m8jo7END52ihaRk5fVEoFyssrcmSHrZYqttVBJb8vbjUrvnPi1DvQmLseo4UYHAtkjDxGwDfobvtd1bExttv4U", "token0": {"amount": 216393.29, "symbol": "Lethe", "usd_value": 330.38}, "token1": {"amount": 1.9, "symbol": "SOL", "usd_value": 173.79}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2Taa2LQjfHw1o21w8xp6DHncZ2b3kHHjJFkvJQy6HcjtR7cNgyGhje6PDiqYVvM53ZGRaoUbpz2aUQMnt9MY4mo9", "token0": {"amount": 1.68, "symbol": "SOL", "usd_value": 291.64}, "token1": {"amount": 161440.86, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5AUNfxSGw7nhDAmfhQgeStGKPCf3nsQcAwRXkMZ9CSfLwFtRzaLwTBBscuSeezt5snpgbhbowdsGaDz1b2N84xTf", "token0": {"amount": 419719.34, "symbol": "BZZZZ", "usd_value": 158.95}, "token1": {"amount": 0.91, "symbol": "SOL", "usd_value": 173.91}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2MWKZeQniCjpipnQj1idCZh2icETwKW3DD9JwX72y1jMU7dhePvggVT3ss3aoewbK8taWHdp8UR9cT14dGiNaaCA", "token0": {"amount": 0.66, "symbol": "SOL", "usd_value": 114.03}, "token1": {"amount": 76639.46, "symbol": "ACE", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5MdetZ1EL7Pfj5wMLjd7TgTc6NhET8XogzNQsKtLxkLg48CUQxNJbGmmma3je77uM6feaM8TMyhEM8KFnH4XFBAk", "token0": {"amount": 8.33, "symbol": "SOL", "usd_value": 1448.87}, "token1": {"amount": 995329.19, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2GByVfRzGWxB4wmmmMsgAMM3xjcn5hvEA8eZW3YMVcZmT3xonHUnxC6xGLPDz65kxHtEJ2wJeuLuAWpLdwNS8xzZ", "token0": {"amount": 4328.37, "symbol": "STONKS", "usd_value": 132.1}, "token1": {"amount": 0.76, "symbol": "SOL", "usd_value": 173.43}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3hU1MpNhLD7RtY28kHJvwpnYn92bber4YPJmJQnLgJ76PFxCR2UH1dSjFH287DqKw4sZ2uZz2Q49w6rxEzcijwy2", "token0": {"amount": 1908.65, "symbol": "FARTBOY", "usd_value": 172.35}, "token1": {"amount": 0.99, "symbol": "SOL", "usd_value": 173.24}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "651gr9TVKa9iczJfpP6oE3WD3oq7FLfz6G1CDhwcTfewrfsCWESwRcoRe1ESPkJuDbLEccafXhrYBRHk55RjgiaQ", "token0": {"amount": 4703.68, "symbol": "FARTBOY", "usd_value": 428.49}, "token1": {"amount": 2.47, "symbol": "SOL", "usd_value": 173.35}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "J9D1gVZPmpxJQTdcCCcEn5scQppu2kJB7JNpbwJCekWMyjkq6JMFhwUY6yGXt7eLyhAURLLy42xxT6WKeaB3bo4", "token0": {"amount": 101462.06, "symbol": "LUMO", "usd_value": 782.49}, "token1": {"amount": 4.52, "symbol": "SOL", "usd_value": 173.07}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2dWrrdPXswznR8y7hCff6DUWiufAyBF9fSdd3p4BspVVXFEyYhRwKShg3YWbAYYdteBuz7hFJEXwCvwam5uLsRhR", "token0": {"amount": 0.13, "symbol": "SOL", "usd_value": 22.75}, "token1": {"amount": 16252.89, "symbol": "Lethe", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4CPoxn94WhUJe1VojxCHTdbCCL1nV2QZDDoKbT8UcQ3WjMzUTyUdm677kyqKh3o7ES6BXrpxzasLG2CHDgsqsWEr", "token0": {"amount": 1.76, "symbol": "SOL", "usd_value": 304.13}, "token1": {"amount": 190472.8, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5eK7HbgmLXgkaPLhChbUwVEFuxSt5KDP2Yvwqg6xMjRH5yyBCRBvEUYii4E7iptQFAYGmeV3rUSkxZhePskHnaus", "token0": {"amount": 207375.43, "symbol": "YzY", "usd_value": 342.58}, "token1": {"amount": 1.98, "symbol": "SOL", "usd_value": 172.99}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2wqGMew3dmk7aXWHb2LjhvQh64Ct35LSzS3Kd41wGyemWZaZLVBCXcSqAXMgyE4GZnca1by5zMwgwf3vE5j8GtUq", "token0": {"amount": 118313.05, "symbol": "Lethe", "usd_value": 170.89}, "token1": {"amount": 0.99, "symbol": "SOL", "usd_value": 172.79}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2dahhJBWsTN3zvwUDJNqpKbNn7KqAexVuVF3Qh4oWbn7a9LWGFyMY2hvZgxP6prQFd9FbcjhanXgBgui6g46d3xy", "token0": {"amount": 199671.29, "symbol": "Lethe", "usd_value": 298.8}, "token1": {"amount": 1.73, "symbol": "SOL", "usd_value": 173.08}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2VJASR65iRQQXmkYWBeWgEe7tNgMRQHGnWxzxRUSZoGVeweDbehMnqyg9GSrGcZ5g7nShKe59gRV4dFckhGqzZN2", "token0": {"amount": 386973.17, "symbol": "YzY", "usd_value": 677.63}, "token1": {"amount": 3.92, "symbol": "SOL", "usd_value": 172.96}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "54YQiF7RteDw8hvXcEmT3S5RavZjTkRME25xUiXSpaK9JrZLzoKXoarfiiuK9QtjosdDeRvdd1FyLWt6Ax4LeNzC", "token0": {"amount": 0.35, "symbol": "SOL", "usd_value": 61.03}, "token1": {"amount": 165677.5, "symbol": "BZZZZ", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2QekXVD3YqdVBeG3CreJFPsZPbKLHtzFFEkKXUSa4hhoYfDU3dCFJsrisNQCXr5RFDUtopPJGVXh1VCCftsvgauz", "token0": {"amount": 2.3, "symbol": "SOL", "usd_value": 399.64}, "token1": {"amount": 248971.73, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5BsmhgZhKC8gWknHtb4dbhdDorRxykiUSJSz6xh3cdH64Mwc7HsW1mufLmAKvxJLGEgtU2sQEMryED9tTHx4SYvn", "token0": {"amount": 76639.46, "symbol": "ACE", "usd_value": 120.07}, "token1": {"amount": 0.69, "symbol": "SOL", "usd_value": 173.05}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2vxAtAXTAoBjH53e4xksHaoxtiDu4P1js7AtJQyRRRvKA248Zus6hxqaxSBtwPqfJcKkXHrZZk7m5A6KTLkV9QhQ", "token0": {"amount": 240809.2, "symbol": "BZZZZ", "usd_value": 89.62}, "token1": {"amount": 0.52, "symbol": "SOL", "usd_value": 173.05}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "563EAJCtghiPKQ5hVMyc27BJ936jBCJF8rU2qqmAiSWvDg5vXmJUwDLNnzGnFjBMcKtkiEKwDNznCejmZeUiZ3zh", "token0": {"amount": 248297.68, "symbol": "Lethe", "usd_value": 407.17}, "token1": {"amount": 2.35, "symbol": "SOL", "usd_value": 173.03}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3tfCJC5eH13DFyBMcR6GDw2rfMtAdWR9u7Coi6KuYpqt5qM4LwCeRn9tx5z2kHajKGBT37Djq1tnRfMaNpayUQhb", "token0": {"amount": 137668.42, "symbol": "Lethe", "usd_value": 228.96}, "token1": {"amount": 1.32, "symbol": "SOL", "usd_value": 173.03}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "2XRMg1wuS1V2L8N3HtpJtTZMmSgrVU9VmWUXS1WdFX7ZUjDkzuiJLtqwpKZt5GD4QP3Ee3TNd2ZfpFoX9TNM9XCq", "token0": {"amount": 178490.48, "symbol": "Lethe", "usd_value": 298.71}, "token1": {"amount": 1.73, "symbol": "SOL", "usd_value": 172.63}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "3fFx1ubg3UqJsWD9xEJQ2T2bwK8HGi4yYgLKbhLykkLtcP6dCo43H938z8Q285jpB154RXfEoQhDx2qFUfv948z9", "token0": {"amount": 3.24, "symbol": "SOL", "usd_value": 559.78}, "token1": {"amount": 171975.9, "symbol": "BUTTCOIN", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "5VXaHEjhhJUWiZ33MoDAVxHYMs65VtxjA6MieWKtBVQxc8h7Ag3MZRiTxVo99M3xWJbWdHAJvVrdq6ZupW4YU4DM", "token0": {"amount": 7.08, "symbol": "SOL", "usd_value": 1226.74}, "token1": {"amount": 14483.83, "symbol": "FARTBOY", "usd_value": 0.08}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "HXpiewbKUL7wbLWVLQAxfBSTGwKZfPA2evEn8LL2JgeAAVqBfYosc2D8MgCcsu5GxN1qixWrg5W7JjGPBnWpTMF", "token0": {"amount": 171975.9, "symbol": "BUTTCOIN", "usd_value": 581.44}, "token1": {"amount": 3.35, "symbol": "SOL", "usd_value": 173.35}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4XsRUgrQmwAAWTeze7bdHU1Ymuku4pEQCbELDfCgF5ntQdmVMrt1zN4ZbwdBRUb6t3AMZT3ryhRbxbMUh34oHq7p", "token0": {"amount": 248971.73, "symbol": "YzY", "usd_value": 482.18}, "token1": {"amount": 2.81, "symbol": "SOL", "usd_value": 171.87}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "LpGGH1CpWaAoL3cmB1tZR1hqAXs1jfadEmMsZyvsaK4TRKt8EbXx89BwYajGd8ZZYzy7E8Fp3Z56eUgCu5RCyqQ", "token0": {"amount": 2000.12, "symbol": "FARTBOY", "usd_value": 172.88}, "token1": {"amount": 1.0, "symbol": "SOL", "usd_value": 173.56}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4AhPTdCcX2uwvwPG3C49zVSq47RsDyyhykfftuP6zS6fAJpVTvct5wHm5Ntfyag4DwtxYo31RXGWZwxZbUySKRxG", "token0": {"amount": 3958.64, "symbol": "FARTBOY", "usd_value": 345.21}, "token1": {"amount": 1.99, "symbol": "SOL", "usd_value": 173.26}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "Amk9Bwe9srvaZqe3yrhmFQSiZSLCW8FocXTXEoyWyeURXZLw4H1VVnZ7XzGCeWWNPDGR6vtfwPFdXyycCKSnZww", "token0": {"amount": 6.35, "symbol": "SOL", "usd_value": 1099.87}, "token1": {"amount": 667810.42, "symbol": "YzY", "usd_value": 0.0}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4H58SmbwyhSmDuivp2AGXThmHXyZ95JVbNHHiJnwaN8hSKrw8tZMLWD8w51yf3N2sysuzAh87LNPa7BDTyU4QHTz", "token0": {"amount": 4852.15, "symbol": "FARTBOY", "usd_value": 425.28}, "token1": {"amount": 2.45, "symbol": "SOL", "usd_value": 173.26}}
+--------------------------------------------
+{"label": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "wallet": "AGzrUzWwHFttUu446C31Pe3USoZMz8CB53mFp6upbhkA", "hash": "4u2avijF5dmtomVizM4VzjDpCEbg23MJjTuSXxE28pCzaZGG4Grf6Qp3C5TvESzy9dduic9ooUq19gsmzmd69vcG", "token0": {"amount": 2722.89, "symbol": "FARTBOY", "usd_value": 238.81}, "token1": {"amount": 1.38, "symbol": "SOL", "usd_value": 173.05}}
+--------------------------------------------

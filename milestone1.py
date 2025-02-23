@@ -3,6 +3,10 @@ import time
 import json
 import websocket
 import logging
+from solana.rpc.api import Client
+from solders.keypair import Keypair
+
+
 
 cielo_url = "https://feed-api.cielo.finance/api/v1/tracked-wallets"  # URL for Cielo API
 headers = {
