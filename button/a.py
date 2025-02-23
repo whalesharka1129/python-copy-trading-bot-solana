@@ -62,11 +62,12 @@ To start copy trade, please connect your wallet"""
     
     sent_message = await update.message.reply_text(message, reply_markup=reply_markup, parse_mode=ParseMode.MARKDOWN_V2)
     message_ids[username] = [sent_message.message_id]
+    print("sent-message---------->",message_ids)
 
 async def button(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.callback_query
     await query.answer()
-
+     
     user = query.from_user  # Get user from the callback query
     username = user.username or "Unknown"  # Get username here
     user_db = collection.find_one({"username": username})
